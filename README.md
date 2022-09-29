@@ -20,6 +20,7 @@ Long story short, the only way to learn software is to make projects. This proje
 
 
 Algorithm
+
 https://www.youtube.com/watch?v=1Pve-uH5FSM
 
 https://tr.khanacademy.org/computing/computer-science/algorithms
@@ -30,6 +31,7 @@ Which Software Language for Starting
 It doesn't really matter which programming language you learn to get started. I recommend starting with Python as its syntax is simple. That's why here is Python related resources.
 
 Python
+
 https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=9280s
 
 Projects
