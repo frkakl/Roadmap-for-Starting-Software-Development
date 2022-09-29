@@ -21,6 +21,7 @@ Long story short, the only way to learn software is to make projects. This proje
 
 Algorithm
 https://www.youtube.com/watch?v=1Pve-uH5FSM
+
 https://tr.khanacademy.org/computing/computer-science/algorithms
 
 
@@ -31,7 +32,10 @@ It doesn't really matter which programming language you learn to get started. I 
 Python
 https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=9280s
 
-Projeler
+Projects
+
 https://www.freecodecamp.org/news/python-projects-for-beginners/
+
 https://hackr.io/blog/python-projects
+
 https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
