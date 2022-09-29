@@ -2,13 +2,11 @@
 Roadmap for Starting Software Development with Python
 
 What is Software Development
-[https://www.youtube.com/watch?v=I7lEEQFwlLU](https://www.youtube.com/watch?v=pquPUX1EihM)
+https://www.youtube.com/watch?v=I7lEEQFwlLU
 
 Where to Start Software Development
-[https://www.youtube.com/watch?v=yunLVcSnMh8](https://www.youtube.com/watch?v=J6rVaFzOEP8)
-https://www.youtube.com/watch?v=1-URp-oy1fI
-https://www.youtube.com/watch?v=xMlfdwyy9lE
-https://www.youtube.com/watch?v=6xayBNPZMaE
+https://www.youtube.com/watch?v=yunLVcSnMh8
+https://www.youtube.com/watch?v=8Xsn4-EwYc0
 
 Yazılıma başlamak için doğru bir yazılım dili yoktur. Temel açıdan bakıldığında tüm yazılım
 dilleri aynı mantık ile çalışmaktadır. Yazılım dilleri arasındaki fark, syntax farklılıklarıdır.
