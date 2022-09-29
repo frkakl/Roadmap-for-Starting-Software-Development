@@ -12,35 +12,21 @@ https://www.youtube.com/watch?v=yunLVcSnMh8
 https://www.youtube.com/watch?v=8Xsn4-EwYc0
 
 
-Yazılıma başlamak için doğru bir yazılım dili yoktur. Temel açıdan bakıldığında tüm yazılım
-dilleri aynı mantık ile çalışmaktadır. Yazılım dilleri arasındaki fark, syntax farklılıklarıdır.
-Yazılım öğrenmeye başlamadan önce Algoritma’nın ne olduğunu ve Algoritmik düşüncenin
-nasıl kurulacağı öğrenilmelidir. Algoritma mantığını kavradıktan sonra hangi yazılım dilini
-öğrendiğinizin bir farkı kalmaz.
-Burada önemli olan kısım bir yazılım dilini öğrenmeye başladıktan sonra sonuna kadar
-ilerilemektir. Şunu da eklemek istiyorum, yazılım hiçbir videodan ya da kitaptan öğrenilemez.
-Videolar veya kitaplardan sadece bir yazılım dilini öğrenebilirsiniz ama öğrendiğiniz bu bilgileri
-uygulama kısmına geldiğinizde büyük bir sorunla karşılaşırsınız.
-Uzun lafın kısası yazılım öğrenmenin tek yolu proje yapmaktır. Proje yapmak cümlesi
-gözünüzü korkutmasın. Toplama işlemi yapan program da bir projedir, görüntü işleme ile el
-hareketlerini tanımlayan program da bir projedir. Tabi ki bahsettiğim proje başlangıç seviyesi projeler
-olacaktır.
-Bu sebeple yol haritamız öncelikle algoritma mantığını kavrayıp sonrasında bir yazılım dilini
-öğrendikten sonra kendi projelerimiz yapmak şeklinde ilerileyecek.
+  There is no right software language to get started with software development. From a fundamental point of view, all software languages ​​work with the same logic. The difference between software languages ​​is syntax differences. Before starting to learn software development, you should learn what is Algorithm and Algorithmic thinking. 
+  After understanding the logic of the algorithm, which software language it doesn't matter what you learn. The important part here is that after starting to learn a software language, you should non stop. I would also like to add that, software development cannot be learned from any video or book.
+  You can learn only programming language syntax from videos or books, and this is not enough. When you come to the application part, you will encounter a big problem. 
+Long story short, the only way to learn software is to make projects. This project word don't be intimidated you. The program that basic calculator is a project but it using image processing for defines your hand movements program is also a project. Of course, the project I'm talking about is beginner level projects will be. 
+  For this reason, our roadmap will first understand the logic of the algorithm and then learn a software language syntax, after learning you will make your own project.
 
-Syntax nedir?
-Türkçe anlamı söz dizimidir. Basitleştirilmiş bir şekilde Programlamada kullanılan dilin kurallarının
-tamamına syntax denir.
 
-Algoritma
+Algorithm
 https://www.youtube.com/watch?v=1Pve-uH5FSM
 https://tr.khanacademy.org/computing/computer-science/algorithms
 
-Hangi Yazılım Dilinden Başlanılmalı
-Daha önce de söylediğim gibi eğer belirli bir alana yoğunlaşmak gibi bir planınız yoksa, hangi
-yazılım dilini öğrendiğinizin pek bir önemi yoktur.
-Syntax’ı basit olduğu için Python ile başlamanızı tavsiye ediyorum. Bu sebeple buraya Python
-ile ilgili kaynaklar ekleyeceğim.
+
+Which Software Language for Starting
+
+It doesn't really matter which programming language you learn to get started. I recommend starting with Python as its syntax is simple. That's why here is Python related resources.
 
 Python
 https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=9280s
