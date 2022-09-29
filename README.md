@@ -21,8 +21,6 @@ Long story short, the only way to learn software is to make projects. This proje
 
 Algorithm
 
-https://www.youtube.com/watch?v=1Pve-uH5FSM
-
 https://tr.khanacademy.org/computing/computer-science/algorithms
 
 
