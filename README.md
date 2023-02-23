@@ -1,5 +1,7 @@
 # Roadmap-for-Starting-Software-Development
-#English
+
+English
+
 Roadmap for Starting Software Development with Python
 
 What is Software Development
@@ -41,7 +43,9 @@ https://hackr.io/blog/python-projects
 
 https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512
 
-#Türkçe
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Türkçe
 
 Python ile Yazılım Geliştirmeye Başlamak İçin Yol Haritası
 
