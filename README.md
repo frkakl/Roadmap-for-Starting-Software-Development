@@ -24,7 +24,7 @@ Long story short, the only way to learn software is to make projects. This proje
 
 Algorithm
 
-https://tr.khanacademy.org/computing/computer-science/algorithms
+https://khanacademy.org/computing/computer-science/algorithms
 
 
 Which Software Language for Starting
